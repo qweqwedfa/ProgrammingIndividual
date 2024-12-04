@@ -1,0 +1,11 @@
+,trip_creation_time,osrm_distance,osrm_time,route_type_Carting,route_type_FTL,SourceBurden_High,SourceBurden_Low,SourceBurden_Medium
+0,13,12.8596,12.0,True,False,False,False,True
+1,13,23.9993,25.0,True,False,False,False,True
+2,13,15.0486,17.0,True,False,False,False,True
+3,13,26.853900000000003,32.0,True,False,False,False,True
+4,12,12.939,11.0,True,False,False,False,True
+5,12,23.3256,24.0,True,False,False,False,True
+6,20,13.3886,12.0,True,False,False,False,True
+7,20,25.0517,28.0,True,False,False,False,True
+8,13,26.8018,32.0,True,False,False,False,True
+9,13,26.8018,32.0,True,False,False,False,True
